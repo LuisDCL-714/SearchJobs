@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Search Jobs</string>
+    <string name="hintSearch">Escribe un trabajo</string>
+    <string name="btnSearch">Buscar</string>
+    <string name="textTitleTest">Tìtulo de prueba</string>
+    <string name="textCompanyTest">Compañía de prueba</string>
+    <string name="textDescriptionTest">Descripción de prueba</string>
+</resources>
